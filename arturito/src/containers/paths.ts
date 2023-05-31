@@ -9,4 +9,5 @@ export const paths: Record<string, Path> = {
   starships: { name: 'Starships', href: '/starships' },
   people: { name: 'People', href: '/people' },
   vehicles: { name: 'Vehicles', href: '/vehicles' },
+  species: { name: 'Species', href: '/species' },
 };
